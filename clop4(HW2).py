@@ -23,4 +23,4 @@ def clop4k(arr):
     return profitforus
 
 
-print(clop4k([7, 2, 1, 5, 3, 3, 6, 4]))
+print(clop4k([7,6,4,3,1]))
